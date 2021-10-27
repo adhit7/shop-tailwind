@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Tailwind CSS
 
 This project was created with React and Tailwind.
 
